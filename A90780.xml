@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pleasant history of Thomas Hickathrift</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90780</idno><idno type="EEBO-CITATION">99897846</idno>
+  <idno type="VID">137390</idno>
+  <idno type="EEBO-PROQUEST">2240922451</idno>
+  
+            <idno type="STC">Wing P2551E</idno>
+            <idno type="STC">ESTC R232176</idno>
+            <idno type="PROQUEST">99897846</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99897846e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137390)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2536:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pleasant history of Thomas Hickathrift</title>
+               </titleStmt>
+               <extent>[4], 18, [2] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Thackeray, and Thomas Passinger,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1687?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Place and date of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Giants --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137390:1"/>
+            <p>THE <hi>Pleasant History</hi> OF Thomas Hickathrift.</p>
+            <figure>
+               <figDesc>woodcut of Tom at work and fighting a giant</figDesc>
+            </figure>
+            <p>Printed for <hi>William Thackeray,</hi> and <hi>Thomas Passin<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r.</hi>
+            </p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:137390:2"/>
+            <pb facs="tcp:137390:2"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>WHat Honour <hi>Tom</hi> came unto. <hi>page.</hi> 1</item>
+               <item>How <hi>Tom Hic-ka-thrift's</hi> Strength came to be known. <hi>page</hi> 3</item>
+               <item>How <hi>Tom</hi> came to be a Brew<g ref="char:EOLhyphen"/>ers Man, and how he came to Kill a Gyant, and at last was <hi>Mr. <hi>Hic-ka-thrift</hi> page</hi> 7</item>
+               <pb facs="tcp:137390:3"/>
+               <item>How <hi>Tom</hi> kept a pack of Hounds, and kickt a Foot-Ball quite away; and how he had like to have been Robbed with four Thieves, and how <hi>Tom</hi> escaped,</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="story">
+            <pb n="1" facs="tcp:137390:3"/>
+            <head>THE Pleasant HISTORY OF <hi>Thomas Hic-ka-thrift▪</hi>
+            </head>
+            <argument>
+               <p>His Birth and Parentage, and the true man<g ref="char:EOLhyphen"/>ner of his performing many Manly Acts, and how he Killed a Gyant.</p>
+               <p>Young Man, here thou mayest behold what Honour <hi>Tom</hi> came unto.</p>
+            </argument>
+            <epigraph>
+               <q>
+                  <l>And if that thou dost buy this Book,</l>
+                  <l>Be sure that thou dost in it look;</l>
+                  <l>And read it o're, then thou wilt say,</l>
+                  <l>Thy Money is not thrown away.</l>
+               </q>
+            </epigraph>
+            <p>IN the Reign before <hi>William</hi> the Con<g ref="char:EOLhyphen"/>queror, I have read in ancient Histo<g ref="char:EOLhyphen"/>ries, that there dwelt a Man in the Marsh the Isle of <hi>Ely,</hi> in the Country of <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi>
+               <pb n="2" facs="tcp:137390:4"/> whose Name was <hi>Thomas Hic-ka-thrift,</hi> a poor Man, and day labourer, yet he was a very stout Man, and able to perform two days work instead of one, he having one Son, and no more Children in the world, he called him by his own Name <hi>Thomas Hickathrift;</hi> this old Man put his Son to good Learning, but he would take none, for he was, as we call them now in this Age, none of the wisest sort, but something soft, and had no do<g ref="char:EOLhyphen"/>city at all in him: God calling this Old Man his Father out of the world, his Mother being tender of him, and main<g ref="char:EOLhyphen"/>tained him by her hand Labour as well as she could: he being sloathful and not willing to work to get a penny for his li<g ref="char:EOLhyphen"/>ving, but all his delight was to be in the Chimney-corner, and would eat as much at one time as might very well serve four or five ordinary men; for he was in length when he was but Ten years of age, about eight foot, and in Thickness five foot, and his hand was like unto a shoulder of Mutton, and in all parts from top to toe, he was like a Monster; and yet his great Strength was not known.</p>
+            <div type="chapter">
+               <pb n="3" facs="tcp:137390:4"/>
+               <head>How <hi>Tom Hic-ka-thrift</hi>'s Strength came to be known, the which if you please but to read, will give you full satisfaction.</head>
+               <p>THe first time that his Strength was known, was by his Mothers going to a Rich Farmers House, (she being but a poor Woman) to desire a Bottle of Straw to shift her self and her Son <hi>Tho<g ref="char:EOLhyphen"/>mas:</hi> the Farmer being an honest Chari<g ref="char:EOLhyphen"/>table Man, bid her take what she would: she going home to her Son <hi>Tom,</hi> said, I pray thee go to such a place and fetch me a Bottle of Straw, I have asked him leave: he swore a great Oath he would not go; nay, prithee <hi>Tom</hi> go, said his old Mother, he swore again he would not go, unless she would borrow him a Cart-rope, she being willing to please him, because she would have some Straw, went and borrowed him a Cart-rope to his de<g ref="char:EOLhyphen"/>sire, he taking it went his way; so co<g ref="char:EOLhyphen"/>ming to the Farmers House, the Master was in the Barn, and two men a Thrash<g ref="char:EOLhyphen"/>ing: said <hi>Tom,</hi> I am come for a Bottle of Straw: <hi>Tom,</hi> said the Master, take as much as thou canst carry: he laid down his Cart-rope, and began to make
+<pb n="4" facs="tcp:137390:5"/> his Bottle; but, said they, <hi>Tom,</hi> thy rope is too short, and jeer'd poor <hi>Tom,</hi> but he fitted the man well for it, for he made his Bottle, and when he had made it, there was supposed to be a Load of Straw in it of two thousand weight; but, said they, what a great fool art thou? thou canst not carry the Tith on't; but <hi>Tom</hi> took the Bottle and flung it on his shoulder, and made no more of it then we do of an hundred weight. to the great admiration of Master and Men. <hi>Tom Hic-ka-thrift's</hi> strength being known in the Town, then they would not let him any longer lye basking by the fire in the Chimney-cor<g ref="char:EOLhyphen"/>ner, every one would be hiring him to work, they seeing him to have so much strength, told him that it was a shame for him to live such a lazy course of life, and to lye idle day after day as he did. So <hi>Tom</hi> seeing them bait at him in such a manner as they did, he went first to one work then to another, but at length came a Man to <hi>Tom,</hi> and desired him to go with him un<g ref="char:EOLhyphen"/>to the Wood, for he had a Tree to bring home, and he would content him. So <hi>Tom</hi> went with him, and he took with him four Men beside; but when they came to the Wood, they set the Earl by
+<pb n="5" facs="tcp:137390:5"/> the Tree, and began to draw it up with Pullies, but <hi>Tom</hi> seeing them not able to lift it up, said, <hi>Stand away you Fools,</hi> and takes the Tree and sets it on one end, and lays it in the Cart, now, says he, see what a Man can do; Marry, it is true, said they: so when they had done, coming through the Wood they met the Wood<g ref="char:EOLhyphen"/>man, <hi>Tom</hi> asked him for a stick to make his Mother a fire with; I, said the Wood<g ref="char:EOLhyphen"/>man, take one what thou canst carry: so <hi>Tom</hi> espyed a Tree bigger then was in the Cart, and lays it on his Shoulder, and goes home with it as fast as the Cart went and six Horses could draw it: This was the second time that <hi>Toms</hi> Strength was known: so when <hi>Tom</hi> began to know that he had more Strength then twenty Men had, he then began to be Merry with Men, and very tractable, and would Run, or Go, or Iump; and took great delight to be amongst Company, and to go to Fairs and Meetings, and to see Sports and Pastime: So going to a Feast, the Young Men were all met, some to Cudgels, some to Wrastling, some throwing the Hammer, and the like; So <hi>Tom</hi> stood a little to see their Sport, and at last goes to them that were
+<pb n="6" facs="tcp:137390:6"/> a throwing the Hammer, and standing a little by to behold their Man-like Sport, at last he takes the Hammer in his hand, to feel the weight of it, and bid them stand out of the way, for he would throw it as far as he could: I, said the Smith, and jeer'd poor <hi>Tom,</hi> you'l throw it a great way i'le warrant you: but <hi>Tom</hi> took the Hammer and flung it, and there was a River about five or six Furlongs off, and flung it into that: so when he had done he bid the Smith go fetch his Hammer again, and laught the Smith to scorn; but when <hi>Tom</hi> had done that, he would go to Wrastling, though he had no more skill than an Ass had, but what he did by Strength, yet he flung all that came, for if once he had laid hold they were gone: some he would throw over his head, some he would lay down slyly and how he pleased: he would not Lock nor strike at their Heels, but flung them two or three Yards from him, ready to break their Necks asunder: so that none at last durst go into the Ring to wrastle with him, for they took him to be some Devil that was come amongst them, so <hi>Toms</hi> fame was spread more in the Country.</p>
+            </div>
+            <div type="chapter">
+               <pb n="7" facs="tcp:137390:6"/>
+               <head>How <hi>Tom</hi> came to be a Brewers Man, and how he came to kill a Gyant, and at last was <hi>Mr. Hic-ka-thrift.</hi>
+               </head>
+               <p>
+                  <hi>TOms</hi> Fame being spread abroad in the Country, there was not a man durst give <hi>Tom</hi> an angry word, for he was some<g ref="char:EOLhyphen"/>thing Fool-hardy, and he did not care what he did at them: so that those that knew him would not in the least displease him: But at length there was a Brewer at <hi>Lyn</hi> that wanted a good lusty Man to carry his Beer in the Marsh and to <hi>Wis<g ref="char:EOLhyphen"/>bich;</hi> so hearing of <hi>Tom,</hi> went to hire him, but <hi>Tom</hi> seemed coy, and would not be his Man until his mother and friends did perswade him, and his master intreat<g ref="char:EOLhyphen"/>ed him, and likewise promised him a new Suit of Cloaths, and Clothe him from top to Toe, and besides, he should Eat and Drink of the best; so <hi>Tom</hi> at last yielded to be his Man, and his Master told him how far he should go: for you are to understand, there was a monstrous Gyant which kept some part of the Marsh, and none durst go that way, for if they did, he would keep them, or kill them, or else he would make Bond-slaves
+<pb n="8" facs="tcp:137390:7"/> of them. But to come to <hi>Tom</hi> and his Master, that he did more work in one day then all his Men would do in three: so that his Master seeing him so tractable, and to look so well after his business, made him his head Man to go into the Marsh to carry Beer by himself, for he needed no Man with him: so <hi>Tom</hi> went every day to <hi>Wisbich,</hi> which was a very great Iourney, for it was twenty Miles the Road-way: <hi>Tom</hi> going so long that wearisome Iourney, and finding that that way that the Gyant kept was nearer by half: <hi>Tom</hi> having gotten more strength by half then before, by being so well kept, and drinking so much strong Ale as he did; one day he was going to <hi>Wisbich,</hi> and without saying any thing to his Master or to any of his Fellow-Servants, he was resolved to make the nearest way to be a Road, or loose his life: to win the Horse or loose the Saddle, to Kill or be Killed, if he met with the Gy<g ref="char:EOLhyphen"/>ant: and with this resolution he goes the nearest way with his Cart, flinging open the Gates for his Cart and Horses to go through; but at last the Gyant spy<g ref="char:EOLhyphen"/>ing him, and seeing him to be so bold, thought to preve<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t him, and came
+<pb n="9" facs="tcp:137390:7"/> intending to take his Beer for a Prize; but <hi>Tom</hi> cared not a Fart for him; and the Gyant he met <hi>Tom</hi> like a Lyon, as though he would have swallowed him: Sirrah, said he, who gave you Authorty to come this way? do you not know that I make all stand in fear of my sight, and you like a Rogue must come and fling my Gates open at your pleasure, how dare you presume to do this? are you so careless of your Life? do you not care what you do? I'le make thee an ex<g ref="char:EOLhyphen"/>ample for all Rogues under the Sun, dost thou not see how many heads hang upon yonder Tree, that have offended my Law? but thy Head shall hang high<g ref="char:EOLhyphen"/>er then all the rest, for an Example; but <hi>Tom</hi> made him answer, a Turd in your Teeth for your News, for you shall not find me to be like one of them. No, said the Gyant, why thou art but a Fool, and thou come to fight with such a one as I am, and bring no Weapon to defend thy self withal? said <hi>Tom.</hi> I have a Weapon here will make you to know you are a Traytorly Rogue: I, Sirrah, said the Gyant, and took that word in high dis<g ref="char:EOLhyphen"/>dain, that <hi>Tom</hi> should call him Traytor<g ref="char:EOLhyphen"/>ly Rogue; and with that he ran into his
+<pb n="10" facs="tcp:137390:8"/> Cave to fetch his great Club, intending to dash out <hi>Toms</hi> brains at the first blow: <hi>Tom</hi> knew not what to do for a Weapon, for he knew his Whip would do him but little good against such a Monstrous Beast as he was, for he was in length Twelve Foot, and Six Foot about the Waste: but while the Gyant went for his Club, <hi>Tom</hi> bethought himself of a very good Weapon, for he makes no more ado, but takes his Cart and turns it upside down, and takes the Axtle-tree and the Wheel for his Shield and Buck<g ref="char:EOLhyphen"/>ler, and very good Weapons they were in such time of need: The Gyant coming out again, began to start at <hi>Tom,</hi> to see him take the Wheel in one hand, and the Axtle-tree in the other to defend himself with; O, said the Gyant, you are like to do great service with those Weapons, I have here a Twig, said the Gyant, that will beat thee and thy Wheel, and Axtle-tree at once unto the ground: that which the Gyant called a Twig, was as thick as some Mill-Posts are; but <hi>Tom</hi> was not daunted for all that, for he saw there was but one way, to kill or be kill'd: so the Gyant made at <hi>Tom</hi> with such a vehement force, that he made <hi>Tom's</hi>
+                  <pb n="11" facs="tcp:137390:8"/> Wheel crack again, and <hi>Tom</hi> lent the Gyant another as good, for he took him such a weighty blow on the side of the head, that he made the Gyant reel a<g ref="char:EOLhyphen"/>gain; what, said <hi>Tom,</hi> are you drunk with my strong Beer already? the Gyant re<g ref="char:EOLhyphen"/>covering, laid on <hi>Tom</hi> most sad blows, but still as they came <hi>Tom</hi> kept them off with his Wheel, so that he had no hurt at all; <hi>Tom</hi> plyed his work so well, and laid such huge blows at the Gyant, that the sweat and blood together, ran down his face, and being fat and foggy, and fighting so long, was almost tired out, asked <hi>Tom</hi> to let him drink a little, and then he would fight with him again; no, said <hi>Tom,</hi> my Mother did not teach me that wit, who's a fool then? <hi>Tom</hi> seeing the Gyant begin to be weary, and find<g ref="char:EOLhyphen"/>ing him to fail in his blows, he thought best to make Hay while the Sun did shine, for he laid on so fast, as though he had been mad, till he had brought the Gyant to the ground, the Gyant seeing himself down, and <hi>Tom</hi> laying so hard on him, roared in a most sad condition, and pray<g ref="char:EOLhyphen"/>ed him not to take away his life, and he would do any thing for him, and yield himself to him, and be his Servant; but
+<pb n="12" facs="tcp:137390:9"/>
+                  <hi>Tom</hi> having no more mercy on him then a Dog of a Bear, laid still at the Gyant till he had laid him for dead, and when he had done he cut off his head, and went into his Cave, and there he found great store of Silver and Gold which made his heart to leap: but when he had done, he loaded his Cart and went to <hi>Wisbich,</hi> and delivered his Beer, and coming home to his Master, he told it to him, but his Master was so overjoy'd at the News, that he would not believe him till he had seen, and getting up the next day, he and his Master went to see if he spoke true or no, and most of the Town of <hi>Lyn;</hi> but when they came to the place and found the Gyant dead, he shewed them where the Head was, and what Silver and Gold there was in the Cave, all of them leapt for joy, for the Gyant was a great Enemy to all the Country; this News was spread all up and down in the Country, how <hi>Tom Hic-ka-thrift</hi> had kill'd the Gyant, and well was he that could run or go to see the Gyant and the Cave, then all the folks made Bonefires for joy, and <hi>Tom</hi> was a better Man re<g ref="char:EOLhyphen"/>spected then before; and <hi>Tom</hi> took pos<g ref="char:EOLhyphen"/>session of the Cave by consent of the
+<pb n="13" facs="tcp:137390:9"/> Country, and every one said that he did de<g ref="char:EOLhyphen"/>serve twi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e as much more; so <hi>Tom</hi> pulled down the Cave and built him a brave House where the Cave stood; all the Ground that the Gyant kept by force and strength, some he gave to the Poor for their Common, and the rest he made Pastures of, and di<g ref="char:EOLhyphen"/>vided the most part into good Ground, to maintain him and his Old Mother <hi>Jane Hic-ka-thrift;</hi> and <hi>Toms</hi> Fame was spread both far and near throughout the Country, and then it was no longer <hi>Tom</hi> but Mr. <hi>Hic-ka-thrift,</hi> so that he was the chiefest Man amongst them, for the People fea<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed <hi>Toms</hi> anger as much as they did the Gy<g ref="char:EOLhyphen"/>ant before; so <hi>Tom</hi> he kept Men and Maids, and lived most bravely, and he made him a Park to keep Deer in, and by his House, which is a Town, he built a Fa<g ref="char:EOLhyphen"/>mous Church, and gave it the Name of Saint <hi>James</hi>'s Church, because he killed the Gyant on that day, which is to to this hout, and ever will be: And many more good deeds he did, which is too tedious to write in this Volumn, but to tell the chief I shall do my endeavour.</p>
+            </div>
+            <div type="chapter">
+               <pb n="14" facs="tcp:137390:10"/>
+               <head>How <hi>Tom</hi> kept a pack of Hounds, and kickt a Foot-ball quite away; and how he had like to have been Robbed by four Thieves, and how he escaped.</head>
+               <p>
+                  <hi>TOM</hi> having so much about him, and used to it, could hardly tell how for to dispose of it, but yet he did use a means to do it, for he kept a pack of Hounds, and Men to Hunt with them, and who but <hi>Tom</hi> then; so he took such delight in sport, that he would go far and near to any Meet<g ref="char:EOLhyphen"/>ings, as Cudgel-play, Bare-baiting, Foot<g ref="char:EOLhyphen"/>ball-play, and the like: But as <hi>Tom</hi> was riding one day, he seeing a Company at Foot-ball-play, he lighted off his Horse to see that rare Sport, for they were playing for a Wager. But <hi>Tom</hi> was a Stran<g ref="char:EOLhyphen"/>ger and none did know him there, but <hi>Tom</hi> soon spoiled their Sport, for he meeting the Foot-ball, took it such a Kick, that they never found their Ball no more; they could see it slye, but whether none could tell, nor to what place: they all wondred at it, and began to Quarrel with <hi>Tom,</hi> but some of them got nothing by it, for <hi>Tom</hi> gets a great Spar which belonged to a House that
+<pb n="15" facs="tcp:137390:10"/> was blown down, and all that stood in his way, he either Killed or knocked down, so that all the Country was up in Arms to take <hi>Tom,</hi> but all in vain, for he Man<g ref="char:EOLhyphen"/>fully made way where ever he came; so when he was gone from them, and was going homeward, he chanced to be some<g ref="char:EOLhyphen"/>what late in the Evening on the Road, there met him four lusty Rogues, that had been Robbing of Passengers that way, and none could escape them, for they Robbed all they met both Rich and Poor: they thought when they met <hi>Tom</hi> they should get a Prize, they perceiving he was alone, made them Cock-sure of his Money, but they were mistaken, for he got a Prize by them: when they met with <hi>Tom,</hi> they stroight bid him <hi>Stand and Deliver: What,</hi> said <hi>Tom, what should I deliver? Your Mo<g ref="char:EOLhyphen"/>ney Sirrah,</hi> said they: <hi>But,</hi> said <hi>Tom, you shall give me better Words for it first, and be better Armed too: Come, come,</hi> said they, <hi>we do not come hither to prate, but we come for Money, and Money we will have before you stir from this place: I,</hi> said <hi>Tom, is it so? Nay then,</hi> said he, <hi>get it and take it:</hi> So one of them made at him, but he presently unarmed him, and took
+<pb n="16" facs="tcp:137390:11"/> away his Sword, which was made of good trusty Steel, and smote so hard at the other, that they began to set Spurs to their Horses and be gone, but he soon stayed they Iour<g ref="char:EOLhyphen"/>ney, one of them having a Portmantle be<g ref="char:EOLhyphen"/>hind him, <hi>Tom</hi> perceiving it to be Money, fought with more Courage then he did be<g ref="char:EOLhyphen"/>fore, till at the last he had Killed two of the four, and the other two he Wounded most grievously, that they cryed for Quarter, so with much intreating, he gave them Quar<g ref="char:EOLhyphen"/>ter, but he took all their Money, which was two hundred pound, to bear their Charges home: So when <hi>Tom</hi> came home, he told them how he had served the Foot-ball-players, and the four Thieves, which caused a laugh from his old Mother, and to refresh him, went to see how all things did, and what his Men had done since he went from home, and going to the Forrest, he wandred up and down, and at last met with a lusty Tinker, that had a good Staff on his Shoulder, and a great Dog to carry his Bag and Tools: so <hi>Tom</hi> asked the Tinker <hi>from whence he came, and whether he was going, for that was no High-way:</hi> But the Tinker being a sturdy Fellow, bid him <hi>go look, and what was that to him,</hi> but Fools must be medling:
+<pb n="17" facs="tcp:137390:11"/>
+                  <hi>No,</hi> says <hi>Tom, but i'le make you know be<g ref="char:EOLhyphen"/>fore you and I part, it is to me: I,</hi> said the Tinker, <hi>I have been these three long years, and have not had one Combat with any Man; I have Challenged many a Man, but none durst make me answer; I think,</hi> said he, <hi>they be all Cowards in this Coun<g ref="char:EOLhyphen"/>try; but I hear there is a Man in this Coun<g ref="char:EOLhyphen"/>try which is called</hi> Tom Hic-ka-thrift, <hi>that killed a Gyant, him would I fain see,</hi> said the Tinker, <hi>to have one Combat with him: I,</hi> said <hi>Tom, but methinks,</hi> said he, <hi>it might be Master with you, I am the Man,</hi> said he, <hi>what have you to say to me? Why verily,</hi> said the Tinker, <hi>I am glad we are so happi<g ref="char:EOLhyphen"/>ly met together, that we may have one single touch: Sure,</hi> said <hi>Tom, you do but jest: Marry,</hi> said the Tinker, <hi>I am in ear<g ref="char:EOLhyphen"/>nest: A match,</hi> said <hi>Tom; 'Tis done,</hi> said the Tinker: <hi>But,</hi> said <hi>Tom, will you give me leave to get me a Twig? I,</hi> said the Tinker, <hi>hang him that will Fight with a Man unarmed, I scorn that:</hi> So <hi>Tom</hi> steps to a Gate and takes one of the Rails for his Staff, so to it they fell, the Tinker at <hi>Tom,</hi> and <hi>Tom</hi> at the Tinker, like two Gyants they laid on at each other: The Tinker had a Leathern Coat, and every
+<pb n="18" facs="tcp:137390:12"/> blow <hi>Tom</hi> gave the Tinker, his Coat roar'd again, yet the Tinker did not give way to <hi>Tom</hi> an such: but <hi>Tom</hi> gave the Tinker a blow on the side of the Head, which fell'd the Tinker: <hi>Now Tinker, where are you,</hi> said <hi>Tom?</hi> But the Tinker being a nimble Fellow, leapt up again and gave <hi>Tom</hi> a blow made him Reel again, and follow'd his blows, and took <hi>Tom</hi> on the other side, which made <hi>Toms</hi> Neck crack again. So <hi>Tom</hi> flung down his Wea<g ref="char:EOLhyphen"/>pon and yielded the Tinker the better on't, and took him home to his House, where I shall leave <hi>Tom</hi> and the Tinker till they be recovered of their sad Wounds and Bruises.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:137390:12"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of man with staff</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:137390:13"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of Tom at work and fighting a giant</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
